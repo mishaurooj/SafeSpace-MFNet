@@ -1,6 +1,6 @@
 # SafeSpace MFNet: Precise & Efficient Multi-Feature Drone Detection
 
-> A clean, practical implementation README for the SafeSpace MFNet / MFNet‑FA project described in the IEEE TVT paper “SafeSpace MFNet: Precise and Efficient MultiFeature Drone Detection Network”.
+> Implementation README for the SafeSpace MFNet / MFNet‑FA project described in the IEEE TVT paper “SafeSpace MFNet: Precise and Efficient MultiFeature Drone Detection Network”.
 
 ---
 
